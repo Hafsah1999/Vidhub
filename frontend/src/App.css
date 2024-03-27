@@ -1,0 +1,14 @@
+.search{
+    border-radius: 25px;
+   
+}
+
+.search-btn{
+    border-radius: 25px;
+    width: 60px;
+ 
+
+}
+.sidebar{
+    position: fixed;
+}
